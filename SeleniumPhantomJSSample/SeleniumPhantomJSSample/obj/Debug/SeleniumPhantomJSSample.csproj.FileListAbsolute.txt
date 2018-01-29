@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\SeleniumPhantomJSSample.exe.config
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\SeleniumPhantomJSSample.exe
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\SeleniumPhantomJSSample.pdb
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\WebDriver.dll
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\WebDriver.xml
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\obj\Debug\SeleniumPhantomJSSample.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\obj\Debug\SeleniumPhantomJSSample.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\obj\Debug\SeleniumPhantomJSSample.exe
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\obj\Debug\SeleniumPhantomJSSample.pdb
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\Castle.Core.dll
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\WebDriver.Support.dll
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\Castle.Core.xml
+C:\Users\ASUS\Desktop\SeleniumPhantomJSSample-master\SeleniumPhantomJSSample\SeleniumPhantomJSSample\bin\Debug\WebDriver.Support.xml
